@@ -1,2 +1,2 @@
 # NLP
-My NLP projects
+My personal NLP projects
